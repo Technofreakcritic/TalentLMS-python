@@ -25,7 +25,7 @@ lms = talentlms.api('example.talentlms.com', API_KEY)
 
 
 
-# lmfao = lms.add_user_to_course("arshaad.mohiadeen@regentmarket.com", "605", role='learner')
+# lmfao = lms.add_user_to_course("email@gmail.com", "605", role='learner')
 # print(lmfao)
 
 # # Get user status in course

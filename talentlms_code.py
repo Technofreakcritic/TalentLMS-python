@@ -9,7 +9,7 @@ import talentlms
 
 API_KEY = 'xxxxxxxxxxxxxxxxxxx'
 
-lms = talentlms.api('deriv.talentlms.com', API_KEY)
+lms = talentlms.api('example.talentlms.com', API_KEY)
 
 # try:
 #     new_user = lms.user_signup({
